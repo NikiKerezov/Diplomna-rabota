@@ -47,13 +47,13 @@ npm start
 Клиентът е уеб приложение написано на React.js.
 
 # Използвани технологии
-Java Spring Boot
-MongoDB
-Stripe
-Vertex AI
-React.js
-HTML
-CSS
+#### Java Spring Boot
+#### MongoDB
+#### Stripe
+#### Vertex AI
+#### React.js
+#### HTML
+#### CSS
 
 # Изработен от:
 ## Никола Керезов
