@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/NikiKerezov/userHandlerBE2.git
+[submodule "client"]
+	path = client
+	url = https://github.com/NikiKerezov/crypto-prophet-fronend.git
