@@ -1,6 +1,0 @@
-[submodule "crypto-prophet-fronend"]
-	path = crypto-prophet-fronend
-	url = https://github.com/NikiKerezov/crypto-prophet-fronend
-[submodule "userHandlerBE2"]
-	path = userHandlerBE2
-	url = https://github.com/NikiKerezov/userHandlerBE2
